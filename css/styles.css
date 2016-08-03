@@ -1,6 +1,8 @@
 h1 {
   color: blue;
   text-align: center;
+  font-size: 75px;
+
 }
 
 h2 {
@@ -15,4 +17,12 @@ p {
 ul {
   font-size: 20px;
   line-height: 30px;
+}
+
+.pic {
+  border-radius: 50px;
+}
+
+body {
+  background-color: grey;
 }
